@@ -1,0 +1,77 @@
+[Tue Sep 02 05:46:44 PM IST 2025] [0;32m../data/sample10.csv -> ../backup/sample10_backup_2025-09-02_17-46-44.csv[0m
+[Tue Sep 02 05:46:44 PM IST 2025] [0;32m../data/sample1.csv -> ../backup/sample1_backup_2025-09-02_17-46-44.csv[0m
+[Tue Sep 02 05:46:44 PM IST 2025] [0;32m../data/sample2.csv -> ../backup/sample2_backup_2025-09-02_17-46-44.csv[0m
+[Tue Sep 02 05:46:44 PM IST 2025] [0;32m../data/sample3.csv -> ../backup/sample3_backup_2025-09-02_17-46-44.csv[0m
+[Tue Sep 02 05:46:44 PM IST 2025] [0;32m../data/sample4.csv -> ../backup/sample4_backup_2025-09-02_17-46-44.csv[0m
+[Tue Sep 02 05:46:44 PM IST 2025] [0;32m../data/sample5.csv -> ../backup/sample5_backup_2025-09-02_17-46-44.csv[0m
+[Tue Sep 02 05:46:44 PM IST 2025] [0;32m../data/sample6.csv -> ../backup/sample6_backup_2025-09-02_17-46-44.csv[0m
+[Tue Sep 02 05:46:44 PM IST 2025] [0;32m../data/sample7.csv -> ../backup/sample7_backup_2025-09-02_17-46-44.csv[0m
+[Tue Sep 02 05:46:44 PM IST 2025] [0;32m../data/sample8.csv -> ../backup/sample8_backup_2025-09-02_17-46-44.csv[0m
+[Tue Sep 02 05:46:44 PM IST 2025] [0;32m../data/sample9.csv -> ../backup/sample9_backup_2025-09-02_17-46-44.csv[0m
+[Tue Sep 02 05:46:44 PM IST 2025] Backup completed!
+[Tue Sep 02 05:49:01 PM IST 2025] Backup started...
+[Tue Sep 02 05:49:01 PM IST 2025] [0;32m../data/sample10.csv -> ../backup/sample10_backup_2025-09-02_17-49-01.csv[0m
+[Tue Sep 02 05:49:02 PM IST 2025] [0;32m../data/sample1.csv -> ../backup/sample1_backup_2025-09-02_17-49-01.csv[0m
+[Tue Sep 02 05:49:02 PM IST 2025] [0;32m../data/sample2.csv -> ../backup/sample2_backup_2025-09-02_17-49-02.csv[0m
+[Tue Sep 02 05:49:02 PM IST 2025] [0;32m../data/sample3.csv -> ../backup/sample3_backup_2025-09-02_17-49-02.csv[0m
+[Tue Sep 02 05:49:02 PM IST 2025] [0;32m../data/sample4.csv -> ../backup/sample4_backup_2025-09-02_17-49-02.csv[0m
+[Tue Sep 02 05:49:02 PM IST 2025] [0;32m../data/sample5.csv -> ../backup/sample5_backup_2025-09-02_17-49-02.csv[0m
+[Tue Sep 02 05:49:02 PM IST 2025] [0;32m../data/sample6.csv -> ../backup/sample6_backup_2025-09-02_17-49-02.csv[0m
+[Tue Sep 02 05:49:02 PM IST 2025] [0;32m../data/sample7.csv -> ../backup/sample7_backup_2025-09-02_17-49-02.csv[0m
+[Tue Sep 02 05:49:02 PM IST 2025] [0;32m../data/sample8.csv -> ../backup/sample8_backup_2025-09-02_17-49-02.csv[0m
+[Tue Sep 02 05:49:02 PM IST 2025] [0;32m../data/sample9.csv -> ../backup/sample9_backup_2025-09-02_17-49-02.csv[0m
+[Tue Sep 02 05:49:02 PM IST 2025] Backup completed!
+[Tue Sep 02 06:01:26 PM IST 2025] Backup started...
+[Tue Sep 02 06:01:26 PM IST 2025] [0;32m../data/sample10.csv -> ../backup/sample10_backup_2025-09-02_18-01-26.csv[0m
+[Tue Sep 02 06:01:26 PM IST 2025] [0;32m../data/sample10_deduped.csv -> ../backup/sample10_deduped_backup_2025-09-02_18-01-26.csv[0m
+[Tue Sep 02 06:01:27 PM IST 2025] [0;32m../data/sample1.csv -> ../backup/sample1_backup_2025-09-02_18-01-26.csv[0m
+[Tue Sep 02 06:01:27 PM IST 2025] [0;32m../data/sample1_sorted.csv -> ../backup/sample1_sorted_backup_2025-09-02_18-01-27.csv[0m
+[Tue Sep 02 06:01:27 PM IST 2025] [0;32m../data/sample2.csv -> ../backup/sample2_backup_2025-09-02_18-01-27.csv[0m
+[Tue Sep 02 06:01:27 PM IST 2025] [0;32m../data/sample3.csv -> ../backup/sample3_backup_2025-09-02_18-01-27.csv[0m
+[Tue Sep 02 06:01:27 PM IST 2025] [0;32m../data/sample4.csv -> ../backup/sample4_backup_2025-09-02_18-01-27.csv[0m
+[Tue Sep 02 06:01:27 PM IST 2025] [0;32m../data/sample5.csv -> ../backup/sample5_backup_2025-09-02_18-01-27.csv[0m
+[Tue Sep 02 06:01:27 PM IST 2025] [0;32m../data/sample6.csv -> ../backup/sample6_backup_2025-09-02_18-01-27.csv[0m
+[Tue Sep 02 06:01:27 PM IST 2025] [0;32m../data/sample7.csv -> ../backup/sample7_backup_2025-09-02_18-01-27.csv[0m
+[Tue Sep 02 06:01:27 PM IST 2025] [0;32m../data/sample8.csv -> ../backup/sample8_backup_2025-09-02_18-01-27.csv[0m
+[Tue Sep 02 06:01:27 PM IST 2025] [0;32m../data/sample9.csv -> ../backup/sample9_backup_2025-09-02_18-01-27.csv[0m
+[Tue Sep 02 06:01:27 PM IST 2025] Backup completed!
+[Tue Sep 02 06:12:26 PM IST 2025] Backup started...
+[Tue Sep 02 06:12:26 PM IST 2025] [0;32m../data/sample10.csv -> ../backup/sample10_backup_2025-09-02_18-12-26.csv[0m
+[Tue Sep 02 06:12:26 PM IST 2025] [0;32m../data/sample10_deduped.csv -> ../backup/sample10_deduped_backup_2025-09-02_18-12-26.csv[0m
+[Tue Sep 02 06:12:26 PM IST 2025] [0;32m../data/sample10_deduped_deduped.csv -> ../backup/sample10_deduped_deduped_backup_2025-09-02_18-12-26.csv[0m
+[Tue Sep 02 06:12:26 PM IST 2025] [0;32m../data/sample1.csv -> ../backup/sample1_backup_2025-09-02_18-12-26.csv[0m
+[Tue Sep 02 06:12:26 PM IST 2025] [0;32m../data/sample1_sorted.csv -> ../backup/sample1_sorted_backup_2025-09-02_18-12-26.csv[0m
+[Tue Sep 02 06:12:26 PM IST 2025] [0;32m../data/sample2.csv -> ../backup/sample2_backup_2025-09-02_18-12-26.csv[0m
+[Tue Sep 02 06:12:26 PM IST 2025] [0;32m../data/sample3.csv -> ../backup/sample3_backup_2025-09-02_18-12-26.csv[0m
+[Tue Sep 02 06:12:26 PM IST 2025] [0;32m../data/sample4.csv -> ../backup/sample4_backup_2025-09-02_18-12-26.csv[0m
+[Tue Sep 02 06:12:26 PM IST 2025] [0;32m../data/sample5.csv -> ../backup/sample5_backup_2025-09-02_18-12-26.csv[0m
+[Tue Sep 02 06:12:27 PM IST 2025] [0;32m../data/sample6.csv -> ../backup/sample6_backup_2025-09-02_18-12-26.csv[0m
+[Tue Sep 02 06:12:27 PM IST 2025] [0;32m../data/sample7.csv -> ../backup/sample7_backup_2025-09-02_18-12-27.csv[0m
+[Tue Sep 02 06:12:27 PM IST 2025] [0;32m../data/sample8.csv -> ../backup/sample8_backup_2025-09-02_18-12-27.csv[0m
+[Tue Sep 02 06:12:27 PM IST 2025] [0;32m../data/sample9.csv -> ../backup/sample9_backup_2025-09-02_18-12-27.csv[0m
+[Tue Sep 02 06:12:27 PM IST 2025] Backup completed!
+[Tue Sep 02 06:26:20 PM IST 2025] Backup started...
+[Tue Sep 02 06:26:21 PM IST 2025] [0;32m✅ ../data/sample10.csv -> ../backup/sample10_backup_2025-09-02_18-26-20.csv[0m
+[Tue Sep 02 06:26:21 PM IST 2025] [0;32m✅ ../data/sample1.csv -> ../backup/sample1_backup_2025-09-02_18-26-21.csv[0m
+[Tue Sep 02 06:26:21 PM IST 2025] [0;32m✅ ../data/sample2.csv -> ../backup/sample2_backup_2025-09-02_18-26-21.csv[0m
+[Tue Sep 02 06:26:21 PM IST 2025] [0;32m✅ ../data/sample3.csv -> ../backup/sample3_backup_2025-09-02_18-26-21.csv[0m
+[Tue Sep 02 06:26:21 PM IST 2025] [0;32m✅ ../data/sample4.csv -> ../backup/sample4_backup_2025-09-02_18-26-21.csv[0m
+[Tue Sep 02 06:26:21 PM IST 2025] [0;32m✅ ../data/sample5.csv -> ../backup/sample5_backup_2025-09-02_18-26-21.csv[0m
+[Tue Sep 02 06:26:21 PM IST 2025] [0;32m✅ ../data/sample6.csv -> ../backup/sample6_backup_2025-09-02_18-26-21.csv[0m
+[Tue Sep 02 06:26:21 PM IST 2025] [0;32m✅ ../data/sample7.csv -> ../backup/sample7_backup_2025-09-02_18-26-21.csv[0m
+[Tue Sep 02 06:26:21 PM IST 2025] [0;32m✅ ../data/sample8.csv -> ../backup/sample8_backup_2025-09-02_18-26-21.csv[0m
+[Tue Sep 02 06:26:21 PM IST 2025] [0;32m✅ ../data/sample9.csv -> ../backup/sample9_backup_2025-09-02_18-26-21.csv[0m
+[Tue Sep 02 06:26:21 PM IST 2025] Backup completed!
+[Tue Sep 02 06:26:33 PM IST 2025] Backup started...
+[Tue Sep 02 06:26:33 PM IST 2025] [1;33mNo changes in ../data/sample10.csv, skipping backup.[0m
+[Tue Sep 02 06:26:34 PM IST 2025] [0;32m✅ ../data/sample10_deduped.csv -> ../backup/sample10_deduped_backup_2025-09-02_18-26-33.csv[0m
+[Tue Sep 02 06:26:34 PM IST 2025] [1;33mNo changes in ../data/sample1.csv, skipping backup.[0m
+[Tue Sep 02 06:26:34 PM IST 2025] [1;33mNo changes in ../data/sample2.csv, skipping backup.[0m
+[Tue Sep 02 06:26:34 PM IST 2025] [1;33mNo changes in ../data/sample3.csv, skipping backup.[0m
+[Tue Sep 02 06:26:34 PM IST 2025] [1;33mNo changes in ../data/sample4.csv, skipping backup.[0m
+[Tue Sep 02 06:26:34 PM IST 2025] [1;33mNo changes in ../data/sample5.csv, skipping backup.[0m
+[Tue Sep 02 06:26:34 PM IST 2025] [1;33mNo changes in ../data/sample6.csv, skipping backup.[0m
+[Tue Sep 02 06:26:34 PM IST 2025] [1;33mNo changes in ../data/sample7.csv, skipping backup.[0m
+[Tue Sep 02 06:26:34 PM IST 2025] [1;33mNo changes in ../data/sample8.csv, skipping backup.[0m
+[Tue Sep 02 06:26:34 PM IST 2025] [1;33mNo changes in ../data/sample9.csv, skipping backup.[0m
+[Tue Sep 02 06:26:34 PM IST 2025] Backup completed!
